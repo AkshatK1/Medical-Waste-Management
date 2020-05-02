@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Request</string>
+    <string name="name">Name</string>
+    <string name="state">State</string>
+    <string name="landmark">Landmark</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="waste_type">Waste Type</string>
+    <string name="status">Status</string>
+    <string name="zip">Zip</string>
+    <string name="name_">Name :</string>
+    <string name="state_">State :</string>
+    <string name="status_">Status :</string>
+    <string name="zip_">Zip :</string>
+    <string name="city">City</string>
+    <string name="waste_type_">Waste Type :</string>
+</resources>
