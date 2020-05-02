@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/sign_out"
+        android:icon="@drawable/ic_sign_out"
+        android:title="@string/sign_out" />
+
+    <item android:title="@string/manage_waste">
+        <menu>
+            <item
+                android:id="@+id/req_pickup"
+                android:icon="@drawable/ic_request_pickup"
+                android:title="@string/request_waste_pickup" />
+        </menu>
+    </item>
+
+    <item android:title="@string/about">
+        <menu>
+            <item
+                android:id="@+id/references"
+                android:icon="@drawable/ic_references"
+                android:title="@string/references" />
+        </menu>
+    </item>
+
+</menu>
